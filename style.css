@@ -1,0 +1,15 @@
+body{
+
+    text-align: center;
+    font-family: monospace;
+    font-size: 40px;
+    color: limegreen;
+    background-color: black;
+    
+}
+button{
+    background-color: limegreen;
+    border-radius: 3cm;
+    border-color: limegreen;
+    
+}
